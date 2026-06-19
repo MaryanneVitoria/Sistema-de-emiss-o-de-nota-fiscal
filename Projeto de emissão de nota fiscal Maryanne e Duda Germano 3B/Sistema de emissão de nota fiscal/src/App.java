@@ -149,7 +149,6 @@ public class App {
 
         prod.deduzirEstoque(quantidadeNota);
 
-        // Aqui geramos os dados e salvamos nas variáveis corretas
         ultimaNotaChave = geradorChave15Digitos();
         ultimaNotaNumero = contadorNota++;
 
